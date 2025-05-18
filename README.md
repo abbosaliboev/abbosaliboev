@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://github.com/AlexeyAB/darknet" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:320/format:webp/1*UDrF5R5gTHi5i_PyIwX6mg.png" alt="yolo" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/apideck/image/upload/v1674167934/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/yologo_2_lopvlj.png" alt="yolo" width="40" height="40"/>
   </a>
 
 </p>
