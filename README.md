@@ -37,8 +37,8 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://github.com/AlexeyAB/darknet" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/nolan/512/yolo.png" alt="yolo" width="40" height="40"/>
+  <a href="https://www.ultralytics.com" target="_blank" rel="noreferrer">
+    <img src="https://storage.googleapis.com/kaggle-organizations/4631/thumbnail.png" alt="yolo" width="40" height="40"/>
   </a>
 
 </p>
