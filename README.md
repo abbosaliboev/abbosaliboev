@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.ultralytics.com" target="_blank" rel="noreferrer">
-    <img src="https://storage.googleapis.com/kaggle-organizations/4631/thumbnail.png" alt="yolo" width="40" height="40"/>
+    <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/odf4kg05ycxdtwz2pfcw" alt="yolo" width="40" height="40"/>
   </a>
 
 </p>
