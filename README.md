@@ -12,7 +12,7 @@
 <a href="https://instagram.com/abbos_aliboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbos_aliboev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@abbos_aliboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abbos_aliboev" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abbosaliboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abbosaliboev" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/abbosaliboev/" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1020/0*xJCLQQRZv3XFMUd1" alt="abbosaliboev" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/abbosaliboev/" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1020/0*xJCLQQRZv3XFMUd1" alt="abbosaliboev" height="40" width="40" /></a>
 </p>
 
 
