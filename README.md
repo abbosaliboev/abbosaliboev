@@ -12,7 +12,7 @@
 <a href="https://instagram.com/abbos_aliboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbos_aliboev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@abbos_aliboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abbos_aliboev" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abbosaliboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abbosaliboev" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/abbosaliboev/" target="blank"><img align="center" src="https://i.pinimg.com/736x/4f/fd/ac/4ffdac317d7cbdb799731634d51626c7.jpg" alt="abbosaliboev" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/abbosaliboev/" target="blank"><img align="center" src="https://preview.redd.it/i-have-been-leetcoding-for-a-while-but-what-does-the-v0-ucy9q7w40wtc1.jpg?width=720&format=pjpg&auto=webp&s=41e11a55faf86e0b7bbbddf934b906212caa0fa9" alt="abbosaliboev" height="40" width="40" /></a>
 </p>
 
 
