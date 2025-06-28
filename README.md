@@ -50,7 +50,7 @@
     <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/odf4kg05ycxdtwz2pfcw" alt="yolo" width="45" height="40"/>
   </a>
   <a href="https://www.roboflow.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-1.webcatalog.io/catalog/roboflow/roboflow-icon-filled-256.png?v=1714775694768" alt="roboflow" width="45" height="40"/>
+    <img src="https://cdn-1.webcatalog.io/catalog/roboflow/roboflow-icon-filled-256.png?v=1714775694768" alt="roboflow" width="40" height="40"/>
   </a>
 
 
