@@ -24,7 +24,7 @@
 
 <p>
    <strong>Portfolio Website:</strong> 
-  <a href="https://abbosaliboev.vercel.app" target="_blank">https://abbosaliboev.vercel.app</a>
+  <a href="https://abbosaliboev.github.io/MyPage/#/projects" target="_blank">https://abbosaliboev.vercel.app</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
