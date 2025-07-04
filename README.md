@@ -24,7 +24,7 @@
 
 <p>
    <strong>Portfolio Website:</strong> 
-  <a href="https://abbosaliboev.github.io/MyPage" target="_blank">Link
+  <a href="https://abbosaliboev.site" target="_blank">abbosaliboev.site
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
