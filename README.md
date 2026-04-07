@@ -23,6 +23,6 @@
 </p>
 
 <p>
-   <strong>Portfolio Website:</strong> 
+   <strong>About me:</strong> 
   <a href="https://abbosaliboev.uz" target="_blank">abbosaliboev.uz
 </p>
