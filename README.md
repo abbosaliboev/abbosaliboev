@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbosaliboev&label=Profile%20views&color=0e75b6&style=flat" alt="abbosaliboev" /> </p>
 
--  I’m currently learning **Computer Science (AI)**
+- I’m currently learning **Computer Science (AI)**
 
-- 📫 How to reach me **ali@chungbuk.ac.kr**
+- How to reach me **ali@chungbuk.ac.kr**
 
 </p>
 
