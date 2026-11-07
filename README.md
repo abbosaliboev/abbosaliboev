@@ -5,8 +5,6 @@
 
 - I’m currently learning **Computer Science (AI)**
 
-- How to reach me **ali@chungbuk.ac.kr**
-
 </p>
 
 <p>
