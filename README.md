@@ -15,15 +15,6 @@ I build real-time vision systems that run on-device - fall detection, worker saf
 - **Fly Brain Drone** — connecting a real fruit-fly connectome (MaleCNS) to a simulated drone in MuJoCo for visual search & navigation
 - **Worker safety AI** — skeleton-based fall and abnormal-behavior detection (YOLO11-pose + ByteTrack)
 
-### 🛠 Selected projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [MobiCare](https://github.com/abbosaliboev/REPO) | Real-time fall detection & alerts for elderly people living alone, fully on-premise for privacy | YOLO11-pose · ST-GCN · Jetson Orin NX · FastAPI |
-| [AI Smart Crosswalk](https://github.com/abbosaliboev/REPO) | Accessibility-focused crosswalk system, deployed in China (SP!ED 2025) | Computer Vision · Edge AI |
-| [Worker Behavior Detection](https://github.com/abbosaliboev/REPO) | Detects falls, unsafe running and long inactivity on industrial sites — no training needed | YOLO11s-pose · ByteTrack |
-| [Tartib](https://github.com/abbosaliboev/REPO) | Telegram bot for reminders, debts and expenses with Uzbek-language LLM support | Python · Groq / Gemini · Railway |
-
 ### 🏆 Recognition
 - 🥇 **Gold Award** — SP!ED 2025, China · team leader of a multinational team
 - 🥈 **Silver Award** — ICCAS 2026, France · MobiCare · team leader & AI engineer
