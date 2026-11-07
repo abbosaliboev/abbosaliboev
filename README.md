@@ -11,8 +11,8 @@
 ---
 
 ### 🔭 Currently working on
-- **Fly Brain Drone** — connecting a real fruit-fly connectome (MaleCNS) to a simulated drone in MuJoCo for visual search & navigation
-- **Worker safety AI** — skeleton-based fall and abnormal-behavior detection (YOLO11-pose + ByteTrack)
+- **Fly Brain Drone** — a fruit-fly connectome flying a simulated drone (MuJoCo)
+- **Worker safety AI** — skeleton-based fall & unsafe-behavior detection
 
 ### 🏆 Recognition
 - 🥇 **Gold Award** — SP!ED 2025, China · team leader of a multinational team
