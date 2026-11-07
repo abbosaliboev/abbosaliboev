@@ -1,6 +1,5 @@
 <h1 align="center">Abbos Aliboev (알리)</h1>
 <p align="center"><b>Edge AI & Computer Vision Engineer</b><br>
-I build real-time vision systems that run on-device - fall detection, worker safety, smart crosswalks.</p>
 
 <p align="center">
   <a href="https://abbosaliboev.uz">Website</a> ·
